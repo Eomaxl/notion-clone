@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701606975342,
+      "tag": "0000_opposite_ulik",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701607496431,
+      "tag": "0001_jittery_slayback",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701609373673,
+      "tag": "0002_adorable_northstar",
+      "breakpoints": true
+    }
+  ]
+}
